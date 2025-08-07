@@ -11,3 +11,4 @@ I'm nearing the completion of my studies, which will allow me to dedicate my ful
 My CV  
 
 The following projects demonstrate my experience in data analysis and data science.
+# Table of content
