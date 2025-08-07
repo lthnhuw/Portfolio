@@ -1,4 +1,9 @@
 # Le Thi Huynh Nhu - Data Analyst Intern Portfolio
 # About
 Hi, I'm Huynh Nhu,  
-I'm currently a fourth-year Computer Science student at Can Tho University. With the foundational knowledge I have acquired, I aspire to apply my skills and expertise in a real-world working environment at MFast. With a proactive mindset and a strong willingness to learn, I am confident that I can contribute valuable insights to the company and work effectively in a team.
+
+I'm currently a fourth-year Computer Science student at Can Tho University. With the foundational knowledge I have acquired, I aspire to apply my skills and expertise in a real-world working environment at MFast. With a proactive mindset and a strong willingness to learn, I am confident that I can contribute valuable insights to the company and work effectively in a team.  
+
+In my free time, I actively explore educational content on YouTube to enhance my skill set, particularly in tools, problem analysis, and problem-solving techniques. I enjoy examining issues from multiple perspectives to develop well-informed and effective solutions.  
+
+I have nearly completed my academic program, so I am able to dedicate my full time to working at your company without any constraints.
