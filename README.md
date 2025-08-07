@@ -6,4 +6,8 @@ I'm currently a fourth-year Computer Science student at Can Tho University. With
 
 In my free time, I actively explore educational content on YouTube to enhance my skill set, particularly in tools, problem analysis, and problem-solving techniques. I enjoy examining issues from multiple perspectives to develop well-informed and effective solutions.  
 
-I have nearly completed my academic program, so I am able to dedicate my full time to working at your company without any constraints.
+I'm nearing the completion of my studies, which will allow me to dedicate my full attention to working at your company without any constraints.  
+
+My CV  
+
+The following projects demonstrate my experience in data analysis and data science.
