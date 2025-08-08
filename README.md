@@ -13,7 +13,9 @@ My CV
 The following projects demonstrate my experience in data analysis and data science.
 # Table of contents
 ## [About](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
-## [Projects](https://github.com/lthnhuw/Projects) 
+## [Projects](https://github.com/lthnhuw/Projects)  
+### 1.
+### 2.
 ## [Skills](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#skills ) 
 ## [Education](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#education )  
 ## [Contact](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#contact )  
