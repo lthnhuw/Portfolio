@@ -17,5 +17,7 @@ The following projects demonstrate my experience in data analysis and data scien
 Bachelor's degree in Computer Science at Can Tho University, Aug 2021 - Dec 2025  
 # Contact  
 <B> Phone </B>: 0989314773  
+<B> Email </B>: lethnhuw74@gmail.com  
+<B> Address </B>: Binh Thanh, Ho Chi Minh
 
 
