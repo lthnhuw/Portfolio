@@ -14,6 +14,9 @@ The following projects demonstrate my experience in data analysis and data scien
 # Table of contents
 ## [About](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
 ## [Projects](https://github.com/lthnhuw/Projects)
+## Skills  
+## Education  
+## Contact
 # Education  
 Bachelor's degree in Computer Science at Can Tho University, Aug 2021 - Dec 2025  
 # Contact  
