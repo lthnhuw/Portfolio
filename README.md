@@ -11,8 +11,8 @@ I'm nearing the completion of my studies, which will allow me to dedicate my ful
 My CV  
 
 The following projects demonstrate my experience in data analysis and data science.
-# 1. Table of contents
-## [About](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
+# Table of contents
+## [1. About](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
 # Education  
 Bachelor's degree in Computer Science at Can Tho University, Aug 2021 - Dec 2025  
 # Contact  
