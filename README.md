@@ -13,10 +13,11 @@ My CV
 The following projects demonstrate my experience in data analysis and data science.
 # Table of contents
 ## [About](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
-## [Projects](https://github.com/lthnhuw/Projects)
-## Skills  
+## [Projects](https://github.com/lthnhuw/Projects) 
+## [Skills](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#skills ) 
 ## [Education](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#education )  
-## Contact
+## [Contact](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#contact )  
+# Skills
 # Education  
 Bachelor's degree in Computer Science at Can Tho University, Aug 2021 - Dec 2025  
 # Contact  
