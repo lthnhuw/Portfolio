@@ -16,7 +16,8 @@ The following projects demonstrate my experience in data analysis and data scien
 
   - [Projects](https://github.com/lthnhuw/Projects)
     - [Analysis and Prediction of Plant Species Distribution Based on USDA Data](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)
-    - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb) 
+    - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
+    - [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)
 
   - [Skills](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#skills )  
 
@@ -37,6 +38,18 @@ The following projects demonstrate my experience in data analysis and data scien
 
 <B> Skills: </B>Python ( Pandas, Scikit-learn, Matplotlib, Seaborn)  
 
+## <B> Loan Default Risk Analysis and Visualization</B>  
+<B> Code: </B>  [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)  
+
+<B> Description: </B> Analyzed loan dataset to explore relationships between borrower characteristics, credit scores, and loan payment status using visual analytics and statistical methods.  
+
+<B> Key contribution: </B>  
+- Cleaned and preprocessed the dataset, handling missing values and outliers.
+- Performed exploratory data analysis (EDA) to identify trends in loan payment behavior.
+- Visualized key relationships such as FICO score distribution, income vs. default rate, and loan purpose vs. repayment status.
+- Compared borrower groups based on credit inquiries, revolving balance, and income levels to assess risk.
+
+<B> Skills: </B> Excel
 ## <B> Machine Translation System Development </B>  
 <B> Code: </B> [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)  
 
