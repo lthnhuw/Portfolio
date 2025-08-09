@@ -1,6 +1,6 @@
 # Le Thi Huynh Nhu - Data Analyst Intern Portfolio
 # About
-Hi, I'm Huynh Nhu,  
+Hi, I'm Huynh Nhu, you can call me Hanu.
 
 I'm currently a fourth-year Computer Science student at Can Tho University. With the foundational knowledge I have acquired, I aspire to apply my skills and expertise in a real-world working environment at MFast. With a proactive mindset and a strong willingness to learn, I am confident that I can contribute valuable insights to the company and work effectively in a team.  
 
@@ -16,6 +16,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
   - [Projects](https://github.com/lthnhuw/Projects)
     - [Analysis and Prediction of Plant Species Distribution Based on USDA Data](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)
+    - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb) 
 
   - [Skills](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#skills )  
 
@@ -34,7 +35,22 @@ The following projects demonstrate my experience in data analysis and data scien
 - Applied DBSCAN to detect irregular clusters and outlier regions.
 - Compared DBSCAN with K-means, improving clustering accuracy by Z%.
 
-<B> Skills: </B>Python ( Pandas, Scikit-learn, Matplotlib, Seaborn)
+<B> Skills: </B>Python ( Pandas, Scikit-learn, Matplotlib, Seaborn)  
+
+## <B> Machine Translation System Development </B>  
+<B> Code: </B> [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)  
+
+<B>Description: </B> Build a machine translation system, research methods to improve translation quality, and compare the machine translation models that have been developed.
+
+<B> Key contribution: </B>  
+- Built and fine-tuned NMT model (Helsinki-NLP/opus-mt-en-vi) with spell correction (ViBERT-base5) and back-translation to improve data quality.
+- Preprocessed and cleaned input datasets.
+- Evaluated performance using BLEU score, outperforming baseline Transformer and multi-source models.
+
+<B> Skills: </B>  
+- Data Analysis: Python, Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning: Scikit-learn, TensorFlow, Keras
+- Natural Language Processing (NLP): NLTK, TextBlob, Hugging Face Transformers
 # Skills
 <B>Technical skill:</B> Excel, SQL, Python, ML  
 
