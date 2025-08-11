@@ -15,8 +15,8 @@ The following projects demonstrate my experience in data analysis and data scien
   - [About](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
 
   - [Projects](https://github.com/lthnhuw/Projects)
-    - [Analysis and Prediction of Plant Species Distribution Based on USDA Data](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)
-    - [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)
+    - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)
+    - [Loan Default Risk Visualization & EDA](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)
     - [Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions](https://github.com/lthnhuw/Projects/blob/main/project.sql)
     - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
     
@@ -27,7 +27,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
   - [Contact](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#contact )
 # Projects  
-## <B> Analysis and Prediction of Plant Species Distribution Based on USDA Data </B>
+## <B> USDA Plant Species Clustering & Prediction </B>
 <B> Code: </B> [plants_Clustering_version2.ipynb](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)  
 
 <B>Description: </B> Analyzed USDA plant species dataset to predict species distribution patterns across regions using clustering algorithms and visual analytics.  
@@ -40,7 +40,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
 <B> Skills: </B>Python ( Pandas, Scikit-learn, Matplotlib, Seaborn)  
 
-## <B> Loan Default Risk Analysis and Visualization</B>  
+## <B> Loan Default Risk Visualization & EDA</B>  
 <B> Code: </B>  [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)  
 
 <B> Description: </B> Analyzed loan dataset to explore relationships between borrower characteristics, credit scores, and loan payment status using visual analytics and statistical methods.  
