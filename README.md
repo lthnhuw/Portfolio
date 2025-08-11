@@ -16,8 +16,9 @@ The following projects demonstrate my experience in data analysis and data scien
 
   - [Projects](https://github.com/lthnhuw/Projects)
     - [Analysis and Prediction of Plant Species Distribution Based on USDA Data](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)
-    - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
     - [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)
+    - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
+    
 
   - [Skills](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#skills )  
 
@@ -49,7 +50,20 @@ The following projects demonstrate my experience in data analysis and data scien
 - Visualized key relationships such as FICO score distribution, income vs. default rate, and loan purpose vs. repayment status.
 - Compared borrower groups based on credit inquiries, revolving balance, and income levels to assess risk.
 
-<B> Skills: </B> Excel
+<B> Skills: </B> Excel  
+## <B>Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions</B>  
+<B> Code: </B>  
+
+<B> Description </B>:  Developed and implemented a set of stored procedures, user-defined functions, triggers, and transaction scripts in MySQL to demonstrate advanced database programming concepts for academic and portfolio purposes.  
+
+<B> Key contribution: </B>  
+- Designed and implemented stored procedures to automate tasks such as GPA calculation, graduation classification, and student/course reporting.
+- Created user-defined functions for computing academic credits and graduation eligibility.
+- Developed database triggers for data integrity enforcement and automated field updates.
+- Implemented transaction scripts with commit/rollback logic to ensure data consistency in money transfer scenarios.
+- Simulated isolation levels and deadlock conditions to illustrate concurrency control concepts.
+
+<B> Skills: </B> MySQL
 ## <B> Machine Translation System Development </B>  
 <B> Code: </B> [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)  
 
