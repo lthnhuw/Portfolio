@@ -2,7 +2,7 @@
 # About
 Hi, I'm Huynh Nhu, you can call me Hanu.
 
-I'm currently a fourth-year Computer Science student at Can Tho University. With the foundational knowledge I have acquired, I aspire to apply my skills and expertise in a real-world working environment at MFast. With a proactive mindset and a strong willingness to learn, I am confident that I can contribute valuable insights to the company and work effectively in a team.  
+I'm currently a final-year Computer Science student at Can Tho University. With the foundational knowledge I have acquired, I aspire to apply my skills and expertise in a real-world working environment at MFast. With a proactive mindset and a strong willingness to learn, I am confident that I can contribute valuable insights to the company and work effectively in a team.  
 
 In my free time, I actively explore educational content on YouTube to enhance my skill set, particularly in tools, problem analysis, and problem-solving techniques. I enjoy examining issues from multiple perspectives to develop well-informed and effective solutions.  
 
@@ -17,6 +17,7 @@ The following projects demonstrate my experience in data analysis and data scien
   - [Projects](https://github.com/lthnhuw/Projects)
     - [Analysis and Prediction of Plant Species Distribution Based on USDA Data](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)
     - [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)
+    - [Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions](https://github.com/lthnhuw/Projects/blob/main/project.sql)
     - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
     
 
@@ -52,7 +53,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
 <B> Skills: </B> Excel  
 ## <B>Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions</B>  
-<B> Code: </B>  
+<B> Code: </B>  [MySQL](https://github.com/lthnhuw/Projects/blob/main/project.sql)
 
 <B> Description </B>:  Developed and implemented a set of stored procedures, user-defined functions, triggers, and transaction scripts in MySQL to demonstrate advanced database programming concepts for academic and portfolio purposes.  
 
@@ -91,6 +92,6 @@ Bachelor's degree in Computer Science at Can Tho University, Aug 2021 - Dec 2025
 # Contacts  
 <B> Phone </B>: 0989314773  
 <B> Email </B>: lethnhuw74@gmail.com  
-<B> Address </B>: Binh Thanh, Ho Chi Minh
+<B> Address </B>: Binh Thanh, Ho Chi Minh City
 
 
