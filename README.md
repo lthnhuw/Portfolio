@@ -84,7 +84,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
 <B>English:</B> Certificate of English proficiency B1  
 
-<B>Visualization:</B> Power BI 
+<B>Visualization:</B> Power BI, Matplotlib, Seaborn
 
 <B>Soft skills:</B> Communication, Interpersonal, Analytical thinking, Critical thinking, Problem-solving, Team-work, Time management
 # Education  
