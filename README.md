@@ -30,7 +30,7 @@ The following projects demonstrate my experience in data analysis and data scien
 ## <B> USDA Plant Species Clustering & Prediction </B>
 <B> Code: </B> [plants_Clustering_version2.ipynb](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)  
 
-<B>Description: </B> Analyzed USDA plant species dataset to predict species distribution patterns across regions using clustering algorithms and visual analytics.  
+<B>Description: </B> Analyzed USDA plant species dataset using clustering algorithms and visual analytics. DBSCAN achieved the highest Silhouette Score (0.572), effectively separating clusters and detecting irregular species distribution patterns and outliers.  
 
 <B> Key contribution: </B>  
 - Cleaned, encoded, and split the dataset for model training.
@@ -43,7 +43,7 @@ The following projects demonstrate my experience in data analysis and data scien
 ## <B> Loan Default Risk Visualization & EDA</B>  
 <B> Code: </B>  [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)  
 
-<B> Description: </B> Analyzed loan dataset to explore relationships between borrower characteristics, credit scores, and loan payment status using visual analytics and statistical methods.  
+<B> Description: </B> Analyzed loan dataset (9,579 rows, 14 columns) to explore relationships between borrower characteristics, credit scores, and loan payment status using visual analytics and statistical methods, resulting in the identification of the top 3 borrower risk factors and providing actionable insights for improving loan approval criteria. 
 
 <B> Key contribution: </B>  
 - Cleaned and preprocessed the dataset, handling missing values and outliers.
