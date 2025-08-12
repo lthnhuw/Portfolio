@@ -38,7 +38,7 @@ The following projects demonstrate my experience in data analysis and data scien
 - Applied DBSCAN to detect irregular clusters and outlier regions.
 - Compared DBSCAN with K-means, improving clustering accuracy by Z%.
 
-<B> Skills: </B>Python ( Pandas, Scikit-learn, Matplotlib, Seaborn)  
+<B> Skills: </B>Python, Pandas, Scikit-learn, Matplotlib, Seaborn 
 
 ## <B> Loan Default Risk Visualization & EDA</B>  
 <B> Code: </B>  [Loan Default Risk Analysis and Visualization](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)  
@@ -80,9 +80,10 @@ The following projects demonstrate my experience in data analysis and data scien
 - Machine Learning: Scikit-learn, TensorFlow, Keras
 - Natural Language Processing (NLP): NLTK, TextBlob, Hugging Face Transformers
 # Skills
-<B>Technical skill:</B> Excel, SQL, Python, ML  
+<B>Technical skill:</B> Excel, SQL, MongoDB, Python, Machine Learning  
 
 <B>English:</B> Certificate of English proficiency B1  
+
 
 <B>Visualization:</B> Power BI, Matplotlib, Seaborn
 
