@@ -10,7 +10,6 @@ I'm nearing the completion of my studies, which will allow me to dedicate my ful
 
 [My CV](https://github.com/lthnhuw/Portfolio/blob/main/MyCV.pdf)  
 
-The following projects demonstrate my experience in data analysis and data science.
 # Table of contents
   - [About](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
 
