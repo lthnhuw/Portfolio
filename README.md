@@ -8,7 +8,7 @@ In my free time, I actively explore educational content on YouTube to enhance my
 
 I'm nearing the completion of my studies, which will allow me to dedicate my full attention to working at your company without any constraints.  
 
-[My CV](https://github.com/lthnhuw/Portfolio/blob/main/MyCV.pdf)  
+[My CV](https://github.com/lthnhuw/Portfolio/blob/main/Hanu_CV.pdf)  
 
 # Table of contents
   - [About](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
