@@ -96,12 +96,12 @@ I'm nearing the completion of my studies, which will allow me to dedicate my ful
 - Machine Learning: Scikit-learn, TensorFlow, Keras
 - Natural Language Processing (NLP): NLTK, TextBlob, Hugging Face Transformers
 # Skills
-<B>Technical skill:</B> Excel, SQL, MongoDB, Python, Machine Learning  
+<B>Technical skills:</B> Excel, SQL, MongoDB, Python, Machine Learning  
 
-<B>English:</B> Certificate of English proficiency B1 (Able to read and comprehend English texts and communicate at a basic level).  
+<B>Languages:</B> Certificate of English proficiency B1 (Able to read and comprehend English texts and communicate at a basic level).  
 
 
-<B>Visualization:</B> Power BI, Matplotlib, Seaborn
+<B>Data Visualization:</B> Power BI, Matplotlib, Seaborn
 
 <B>Soft skills:</B> Communication, Interpersonal, Analytical thinking, Critical thinking, Problem-solving, Team-work, Time management
 # Education  
