@@ -33,7 +33,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
 <B>Description: </B> Analyzed USDA plant species dataset using clustering algorithms and visual analytics. DBSCAN achieved the highest Silhouette Score (0.572), effectively separating clusters and detecting irregular species distribution patterns and outliers.  
 
-<B> Key contribution: </B>  
+<B> Key contributions: </B>  
 - Cleaned, encoded, and split the dataset for model training.
 - Performed visual analysis of plant species distribution across multiple regions.
 - Applied DBSCAN to detect irregular clusters and outlier regions.
@@ -46,7 +46,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
 <B> Description: </B> Analyzed loan dataset (9,579 rows, 14 columns) to explore relationships between borrower characteristics, credit scores, and loan payment status using visual analytics and statistical methods, resulting in the identification of the top 3 borrower risk factors and providing actionable insights for improving loan approval criteria. 
 
-<B> Key contribution: </B>  
+<B> Key contributions: </B>  
 - Cleaned and preprocessed the dataset, handling missing values and outliers.
 - Performed exploratory data analysis (EDA) to identify trends in loan payment behavior.
 - Visualized key relationships such as FICO score distribution, income vs. default rate, and loan purpose vs. repayment status.
@@ -74,7 +74,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
 <B> Description </B>:  Developed and implemented a set of stored procedures, user-defined functions, triggers, and transaction scripts in MySQL to demonstrate advanced database programming concepts for academic and portfolio purposes.  
 
-<B> Key contribution: </B>  
+<B> Key contributions: </B>  
 - Designed and implemented stored procedures to automate tasks such as GPA calculation, graduation classification, and student/course reporting.
 - Created user-defined functions for computing academic credits and graduation eligibility.
 - Developed database triggers for data integrity enforcement and automated field updates.
@@ -87,7 +87,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
 <B>Description: </B> Build a machine translation system, research methods to improve translation quality, and compare the machine translation models that have been developed.
 
-<B> Key contribution: </B>  
+<B> Key contributions: </B>  
 - Built and fine-tuned NMT model (Helsinki-NLP/opus-mt-en-vi) with spell correction (ViBERT-base5) and back-translation to improve data quality.
 - Preprocessed and cleaned input datasets.
 - Evaluated performance using BLEU score, outperforming baseline Transformer and multi-source models.
