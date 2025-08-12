@@ -98,7 +98,7 @@ I'm nearing the completion of my studies, which will allow me to dedicate my ful
 # Skills
 <B>Technical skill:</B> Excel, SQL, MongoDB, Python, Machine Learning  
 
-<B>English:</B> Certificate of English proficiency B1  
+<B>English:</B> Certificate of English proficiency B1 (Able to read and comprehend English texts and communicate at a basic level).  
 
 
 <B>Visualization:</B> Power BI, Matplotlib, Seaborn
