@@ -18,6 +18,7 @@ The following projects demonstrate my experience in data analysis and data scien
     - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)
     - [Loan Default Risk Visualization & EDA](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)
     - [Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions](https://github.com/lthnhuw/Projects/blob/main/project.sql)
+    - [Student Academic Records Management & Analysis with MySQL]()
     - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
     
 
@@ -52,6 +53,26 @@ The following projects demonstrate my experience in data analysis and data scien
 - Compared borrower groups based on credit inquiries, revolving balance, and income levels to assess risk.
 
 <B> Skills: </B> Excel  
+## <B> Student Academic Records Management & Analysis with MySQL </B>  
+<B> Code: </B>  
+
+<B> Description: </B> Designed and implemented a relational database to store and manage student academic records, course details, and exam results for multiple faculties. Developed SQL queries to extract, filter, and aggregate data for academic performance analysis, faculty statistics, and course participation insights.  
+
+<B> Key contributions: </B>  
+- Built a complete schema with 4 interrelated tables: khoa, sinhVien, hocPhan, ketQua
+- Implemented 20+ SQL queries to answer specific analytical questions:
+  - Student filtering by age, faculty, and name patterns
+  - Identifying top-performing students and those at academic risk
+  - Listing most popular courses and courses without registrations
+  - Calculating pass/fail rates and faculty-level gender distribution
+- Applied constraints (CHECK, FOREIGN KEY) to ensure data integrity
+- Generated datasets for academic decision-making and operational reports
+
+<B> Skills: </B>  
+- MySQL (DDL, DML, JOIN, aggregation, subqueries, constraints)
+- Relational database design
+- Data filtering, sorting, and aggregation
+- Query optimization basics
 ## <B>Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions</B>  
 <B> Code: </B>  [MySQL](https://github.com/lthnhuw/Projects/blob/main/project.sql)
 
