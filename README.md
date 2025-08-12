@@ -68,7 +68,7 @@ The following projects demonstrate my experience in data analysis and data scien
 - Applied constraints (CHECK, FOREIGN KEY) to ensure data integrity
 - Generated datasets for academic decision-making and operational reports
 
-<B> Skills: </B>  MySQL (DDL, DML, JOIN, aggregation, subqueries, constraints), relational database design, data filtering, sorting, and aggregation, query optimization basics
+<B> Skills: </B>  MySQL (DDL, DML, JOIN, aggregation, subqueries, constraints); relational database design; data filtering, sorting, and aggregation; query optimization basics
 ## <B>Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions</B>  
 <B> Code: </B>  [MySQL](https://github.com/lthnhuw/Projects/blob/main/project.sql)
 
