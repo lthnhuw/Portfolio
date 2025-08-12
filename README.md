@@ -58,16 +58,16 @@ I'm nearing the completion of my studies, which will allow me to dedicate my ful
 <B> Description: </B> Designed and implemented a relational database to store and manage student academic records, course details, and exam results for multiple faculties. Developed SQL queries to extract, filter, and aggregate data for academic performance analysis, faculty statistics, and course participation insights.  
 
 <B> Key contributions: </B>  
-- Built a complete schema with 4 interrelated tables: khoa, sinhVien, hocPhan, ketQua
+- Built a complete schema with 4 interrelated tables: khoa, sinhVien, hocPhan, ketQua.
 - Implemented 20+ SQL queries to answer specific analytical questions:
-  - Student filtering by age, faculty, and name patterns
-  - Identifying top-performing students and those at academic risk
-  - Listing most popular courses and courses without registrations
-  - Calculating pass/fail rates and faculty-level gender distribution
-- Applied constraints (CHECK, FOREIGN KEY) to ensure data integrity
-- Generated datasets for academic decision-making and operational reports
+  - Student filtering by age, faculty, and name patterns.
+  - Identifying top-performing students and those at academic risk.
+  - Listing most popular courses and courses without registrations.
+  - Calculating pass/fail rates and faculty-level gender distribution.
+- Applied constraints (CHECK, FOREIGN KEY) to ensure data integrity.
+- Generated datasets for academic decision-making and operational reports.
 
-<B> Skills: </B>  MySQL (DDL, DML, JOIN, aggregation, subqueries, constraints); relational database design; data filtering, sorting, and aggregation; query optimization basics
+<B> Skills: </B>  MySQL (DDL, DML, JOIN, aggregation, subqueries, constraints); relational database design; data filtering, sorting, and aggregation; query optimization basics.
 ## <B>Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions</B>  
 <B> Code: </B>  [MySQL](https://github.com/lthnhuw/Projects/blob/main/project.sql)
 
