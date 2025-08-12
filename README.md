@@ -17,8 +17,8 @@ The following projects demonstrate my experience in data analysis and data scien
   - [Projects](https://github.com/lthnhuw/Projects)
     - [USDA Plant Species Clustering & Prediction](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)
     - [Loan Default Risk Visualization & EDA](https://github.com/lthnhuw/Projects/blob/main/Loan.xlsx)
+    - [Student Academic Records Management & Analysis with MySQL](https://github.com/lthnhuw/Projects/blob/main/student.sql)
     - [Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions](https://github.com/lthnhuw/Projects/blob/main/project.sql)
-    - [Student Academic Records Management & Analysis with MySQL]()
     - [Machine Translation System Development](https://github.com/lthnhuw/Projects/blob/main/NLP.ipynb)
     
 
@@ -37,7 +37,7 @@ The following projects demonstrate my experience in data analysis and data scien
 - Cleaned, encoded, and split the dataset for model training.
 - Performed visual analysis of plant species distribution across multiple regions.
 - Applied DBSCAN to detect irregular clusters and outlier regions.
-- Compared DBSCAN with K-means, improving clustering accuracy by Z%.
+- Compared DBSCAN with K-means,  improving clustering insights.
 
 <B> Skills: </B>Python, Pandas, Scikit-learn, Matplotlib, Seaborn 
 
@@ -54,7 +54,7 @@ The following projects demonstrate my experience in data analysis and data scien
 
 <B> Skills: </B> Excel  
 ## <B> Student Academic Records Management & Analysis with MySQL </B>  
-<B> Code: </B>  
+<B> Code: </B> [Student Academic Records Management & Analysis with MySQL](https://github.com/lthnhuw/Projects/blob/main/student.sql) 
 
 <B> Description: </B> Designed and implemented a relational database to store and manage student academic records, course details, and exam results for multiple faculties. Developed SQL queries to extract, filter, and aggregate data for academic performance analysis, faculty statistics, and course participation insights.  
 
@@ -68,11 +68,7 @@ The following projects demonstrate my experience in data analysis and data scien
 - Applied constraints (CHECK, FOREIGN KEY) to ensure data integrity
 - Generated datasets for academic decision-making and operational reports
 
-<B> Skills: </B>  
-- MySQL (DDL, DML, JOIN, aggregation, subqueries, constraints)
-- Relational database design
-- Data filtering, sorting, and aggregation
-- Query optimization basics
+<B> Skills: </B>  MySQL (DDL, DML, JOIN, aggregation, subqueries, constraints), relational database design, data filtering, sorting, and aggregation, query optimization basics
 ## <B>Advanced SQL Programming: Stored Procedures, Functions, Triggers & Transactions</B>  
 <B> Code: </B>  [MySQL](https://github.com/lthnhuw/Projects/blob/main/project.sql)
 
