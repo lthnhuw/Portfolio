@@ -25,7 +25,7 @@ I'm nearing the completion of my studies, which will allow me to dedicate my ful
 
   - [Education](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#education )  
 
-  - [Contact](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#contact )
+  - [Contacts](https://github.com/lthnhuw/Portfolio/blob/main/README.md/#contact )
 # Projects  
 ## <B> USDA Plant Species Clustering & Prediction </B>
 <B> Code: </B> [plants_Clustering_version2.ipynb](https://github.com/lthnhuw/Projects/blob/main/plants_Clustering_version2.ipynb)  
