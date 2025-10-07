@@ -50,7 +50,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 - Trình bày kết quả qua dashboard trực quan, hỗ trợ quản lý đa dạng sinh học.
 
 <B> Kỹ năng: </B> Phân tích yêu cầu, Khám phá dữ liệu, Trực quan hóa dữ liệu, Truyền đạt insight, Python (Pandas, Matplotlib, Seaborn).  
-## <B> Loan Default Risk Analysis </B>  
+## <B> Phân tích Rủi ro Vỡ nợ Khoản vay </B>  
 <B> Code: </B> [Phân tích Rủi ro Vỡ nợ Khoản vay](https://github.com/lthnhuw/Khoan-vay) 
 
 <B> Description: </B> Phân tích tập dữ liệu khoản vay (~9.500 bản ghi, 14 thuộc tính) để xác định các yếu tố ảnh hưởng đến khả năng trả nợ và hỗ trợ cải thiện chính sách tín dụng.  
