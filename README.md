@@ -11,24 +11,22 @@ Tôi sắp hoàn thành chương trình đại học, mong muốn được phát
 Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business Analysis và Data Analytics, trở thành Business Analyst chuyên nghiệp, có khả năng kết nối nhu cầu kinh doanh với giải pháp công nghệ nhằm hỗ trợ các quyết định chiến lược.
 
 # Mục lục
-  - [Giới thiệu](https://github.com/lthnhuw/Portfolio/blob/main/README.md)  
+  - Giới thiệu
 
   - Dự án:
     - [Hệ thống Quản lý Mượn Trả Sách Thư viện](https://github.com/lthnhuw/Thu-vien)
     - [Phân Cụm & Dự đoán Loài Thực vật USDA](https://github.com/lthnhuw/USDA)
     - [Phân tích Rủi ro Vỡ nợ Khoản vay](https://github.com/lthnhuw/Khoan-vay)
     - [Hệ thống Quản lý Nhân sự](https://github.com/lthnhuw/Quan-ly-nhan-su)
-    - [Phân tích Hệ thống Dịch máy](https://github.com/lthnhuw/Machine-Translation-System-Analysis)
+    - [Phân tích Hệ thống Dịch máy](https://github.com/lthnhuw/Phan-Tich-He-Thong-Dich-May)
     
 
-  - [Kỹ năng](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#skills )  
-
-  - [Học vấn](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#education )  
-
-  - [Liên lạc](https://github.com/lthnhuw/PortfolioBAIntern/blob/main/README.md/#contact )
+  - Kỹ năng
+  - Học vấn
+  - Liên lạc
 # Dự án  
 ## <B> Hệ thống Quản lý Mượn Trả Sách Thư viện </B>
-<B> Code: </B> [Hệ thống Quản lý Mượn Trả Sách Thư viện](https://github.com/lthnhuw/Library-Borrowing-Management-System)  
+<B> Code: </B> [Hệ thống Quản lý Mượn Trả Sách Thư viện](https://github.com/lthnhuw/Thu-vien)  
 
 <B>Mô tả: </B> Thiết kế và phân tích hệ thống quản lý thư viện trực tuyến để tự động hóa quy trình mượn – trả sách, giúp tăng hiệu quả và cải thiện trải nghiệm người dùng.  
 
@@ -41,7 +39,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 <B> Kỹ năng: </B> Phân tích yêu cầu, UML (Use Case, Class Diagram), Mô hình quy trình, Thiết kế giao diện. 
 
 ## <B>Phân Cụm & Dự đoán Loài Thực vật USDA</B>  
-<B> Code: </B>  [Phân Cụm & Dự đoán Loài Thực vật USDA](https://github.com/lthnhuw/USDA-Plant-Species-Clustering-Prediction)  
+<B> Code: </B>  [Phân Cụm & Dự đoán Loài Thực vật USDA](https://github.com/lthnhuw/USDA)  
 
 <B> Mô tả: </B> Phân tích bộ dữ liệu thực vật USDA để tìm ra quy luật phân bố loài thực vật tại các vùng của Hoa Kỳ, từ đó hỗ trợ quy hoạch môi trường và nông nghiệp.
 
@@ -53,7 +51,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 
 <B> Kỹ năng: </B> Phân tích yêu cầu, Khám phá dữ liệu, Trực quan hóa dữ liệu, Truyền đạt insight, Python (Pandas, Matplotlib, Seaborn).  
 ## <B> Loan Default Risk Analysis </B>  
-<B> Code: </B> [Phân tích Rủi ro Vỡ nợ Khoản vay](https://github.com/lthnhuw/Loan-Default-Risk-Analysis) 
+<B> Code: </B> [Phân tích Rủi ro Vỡ nợ Khoản vay](https://github.com/lthnhuw/Khoan-vay) 
 
 <B> Description: </B> Phân tích tập dữ liệu khoản vay (~9.500 bản ghi, 14 thuộc tính) để xác định các yếu tố ảnh hưởng đến khả năng trả nợ và hỗ trợ cải thiện chính sách tín dụng.  
 
@@ -65,7 +63,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 
 <B> Kỹ năng: </B> Phân tích yêu cầu, Khám phá dữ liệu, Trực quan hóa (Excel, Pivot), Rút ra insight.
 ## <B>Hệ thống Quản lý Nhân sự </B>  
-<B> Code: </B>  [Hệ thống Quản lý Nhân sự](https://github.com/lthnhuw/Human-Resource-Management-System)
+<B> Code: </B>  [Hệ thống Quản lý Nhân sự](https://github.com/lthnhuw/Quan-ly-nhan-su)
 
 <B> Mô tả </B>:  Thiết kế và mô hình hóa hệ thống quản lý nhân sự nhằm hỗ trợ giám sát dự án và đánh giá hiệu suất nhân viên, giúp quy trình HR hiệu quả hơn.
 
@@ -77,7 +75,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 
 <B> Kỹ năng: </B> Phân tích yêu cầu, Mô hình UML (Use Case, Class, Sequence), Mô hình dữ liệu (LDM), Tài liệu hóa quy trình nghiệp vụ, Viết báo cáo.
 ## <B> Phân tích Hệ thống Dịch máy </B>  
-<B> Code: </B> [Phân tích Hệ thống Dịch máy](https://github.com/lthnhuw/Machine-Translation-System-Analysis)  
+<B> Code: </B> [Phân tích Hệ thống Dịch máy](https://github.com/lthnhuw/Phan-Tich-He-Thong-Dich-May)  
 
 <B>Mô tả: </B> Phân tích và đánh giá hệ thống dịch máy để tìm ra phương pháp cải thiện chất lượng dịch và hỗ trợ ra quyết định lựa chọn mô hình dịch hiệu quả.
 
