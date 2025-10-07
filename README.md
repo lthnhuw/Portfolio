@@ -17,7 +17,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
     - [Hệ thống Quản lý Mượn Trả Sách Thư viện](https://github.com/lthnhuw/Thu-vien)
     - [Phân Cụm & Dự đoán Loài Thực vật USDA](https://github.com/lthnhuw/USDA)
     - [Phân tích Rủi ro Vỡ nợ Khoản vay](https://github.com/lthnhuw/Khoan-vay)
-    - [Hệ thống Quản lý Nhân sự](https://github.com/lthnhuw/Human-Resource-Management-System)
+    - [Hệ thống Quản lý Nhân sự](https://github.com/lthnhuw/Quan-ly-nhan-su)
     - [Phân tích Hệ thống Dịch máy](https://github.com/lthnhuw/Machine-Translation-System-Analysis)
     
 
