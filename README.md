@@ -26,7 +26,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
   - Liên lạc
 # Dự án  
 ## <B> Hệ thống Quản lý Mượn Trả Sách Thư viện </B>
-<B> Code: </B> [Hệ thống Quản lý Mượn Trả Sách Thư viện](https://github.com/lthnhuw/Thu-vien)  
+<B> Dự án: </B> [Hệ thống Quản lý Mượn Trả Sách Thư viện](https://github.com/lthnhuw/Thu-vien)  
 
 <B>Mô tả: </B> Thiết kế và phân tích hệ thống quản lý thư viện trực tuyến để tự động hóa quy trình mượn – trả sách, giúp tăng hiệu quả và cải thiện trải nghiệm người dùng.  
 
@@ -39,7 +39,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 <B> Kỹ năng: </B> Phân tích yêu cầu, UML (Use Case, Class Diagram), Mô hình quy trình, Thiết kế giao diện. 
 
 ## <B>Phân Cụm & Dự đoán Loài Thực vật USDA</B>  
-<B> Code: </B>  [Phân Cụm & Dự đoán Loài Thực vật USDA](https://github.com/lthnhuw/USDA)  
+<B> Dự án: </B>  [Phân Cụm & Dự đoán Loài Thực vật USDA](https://github.com/lthnhuw/USDA)  
 
 <B> Mô tả: </B> Phân tích bộ dữ liệu thực vật USDA để tìm ra quy luật phân bố loài thực vật tại các vùng của Hoa Kỳ, từ đó hỗ trợ quy hoạch môi trường và nông nghiệp.
 
@@ -51,7 +51,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 
 <B> Kỹ năng: </B> Phân tích yêu cầu, Khám phá dữ liệu, Trực quan hóa dữ liệu, Truyền đạt insight, Python (Pandas, Matplotlib, Seaborn).  
 ## <B> Phân tích Rủi ro Vỡ nợ Khoản vay </B>  
-<B> Code: </B> [Phân tích Rủi ro Vỡ nợ Khoản vay](https://github.com/lthnhuw/Khoan-vay) 
+<B> Dự án: </B> [Phân tích Rủi ro Vỡ nợ Khoản vay](https://github.com/lthnhuw/Khoan-vay) 
 
 <B> Description: </B> Phân tích tập dữ liệu khoản vay (~9.500 bản ghi, 14 thuộc tính) để xác định các yếu tố ảnh hưởng đến khả năng trả nợ và hỗ trợ cải thiện chính sách tín dụng.  
 
@@ -63,7 +63,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 
 <B> Kỹ năng: </B> Phân tích yêu cầu, Khám phá dữ liệu, Trực quan hóa (Excel, Pivot), Rút ra insight.
 ## <B>Hệ thống Quản lý Nhân sự </B>  
-<B> Code: </B>  [Hệ thống Quản lý Nhân sự](https://github.com/lthnhuw/Quan-ly-nhan-su)
+<B> Dự án: </B>  [Hệ thống Quản lý Nhân sự](https://github.com/lthnhuw/Quan-ly-nhan-su)
 
 <B> Mô tả </B>:  Thiết kế và mô hình hóa hệ thống quản lý nhân sự nhằm hỗ trợ giám sát dự án và đánh giá hiệu suất nhân viên, giúp quy trình HR hiệu quả hơn.
 
@@ -75,7 +75,7 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 
 <B> Kỹ năng: </B> Phân tích yêu cầu, Mô hình UML (Use Case, Class, Sequence), Mô hình dữ liệu (LDM), Tài liệu hóa quy trình nghiệp vụ, Viết báo cáo.
 ## <B> Phân tích Hệ thống Dịch máy </B>  
-<B> Code: </B> [Phân tích Hệ thống Dịch máy](https://github.com/lthnhuw/Phan-Tich-He-Thong-Dich-May)  
+<B> Dự án: </B> [Phân tích Hệ thống Dịch máy](https://github.com/lthnhuw/Phan-Tich-He-Thong-Dich-May)  
 
 <B>Mô tả: </B> Phân tích và đánh giá hệ thống dịch máy để tìm ra phương pháp cải thiện chất lượng dịch và hỗ trợ ra quyết định lựa chọn mô hình dịch hiệu quả.
 
