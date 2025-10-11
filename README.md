@@ -1,4 +1,4 @@
-# Lê Thị Huỳnh Như - Business Analyst Intern Portfolio
+# Lê Thị Huỳnh Như - Thực tập sinh BA Portfolio
 # Giới thiệu
 Xin chào, tôi là Huỳnh Như.
 
