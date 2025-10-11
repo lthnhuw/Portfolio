@@ -87,8 +87,8 @@ Trong tương lai, tôi kỳ vọng sẽ nâng cao chuyên môn trong Business A
 
 <B> Kỹ năng: </B>  Phân tích yêu cầu, Chuẩn bị dữ liệu, Đánh giá bằng BLEU, Nghiên cứu & Tài liệu hóa, Truyền đạt insight, Báo cáo cho stakeholder.
 # Kỹ năng
-<b> Kỹ năng Chuyên môn & Kỹ thuật:</b> Phân tích yêu cầu, Tài liệu hóa quy trình nghiệp vụ, Viết test case, Figma, Google Workspace, Draw.io, SQL, Excel, Python (Pandas, Matplotlib, Seaborn), PowerBI.
-<b> Ngôn ngữ: </b> Tiếng Anh – Trình độ B1.
+<b> Kỹ năng Chuyên môn & Kỹ thuật:</b> Phân tích yêu cầu, Tài liệu hóa quy trình nghiệp vụ, Viết test case, Figma, Google Workspace, Draw.io, SQL, Excel, Python (Pandas, Matplotlib, Seaborn), PowerBI.  
+<b> Ngôn ngữ: </b> Tiếng Anh – Trình độ B1.  
 <b> Kỹ năng mềm: </b> Giao tiếp, Tư duy phân tích & phản biện, Giải quyết vấn đề, Làm việc nhóm, Quản lý thời gian.
 # Học vấn
 Chuyên ngành Khoa học Máy tính - Đại học Cần Thơ từ tháng 8/2021 - 12/2025  
